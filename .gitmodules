@@ -1608,6 +1608,9 @@
 [submodule "vendor/grammars/vscode-tmdl"]
 	path = vendor/grammars/vscode-tmdl
 	url = https://github.com/microsoft/vscode-tmdl.git
+[submodule "vendor/grammars/vscode-tree-sitter-query"]
+	path = vendor/grammars/vscode-tree-sitter-query
+	url = https://github.com/mkatychev/vscode-tree-sitter-query.git
 [submodule "vendor/grammars/vscode-vba"]
 	path = vendor/grammars/vscode-vba
 	url = https://github.com/serkonda7/vscode-vba.git
@@ -1668,6 +1671,3 @@
 [submodule "vendor/grammars/zephir-sublime"]
 	path = vendor/grammars/zephir-sublime
 	url = https://github.com/phalcon/zephir-sublime
-[submodule "vendor/grammars/vscode-tree-sitter-query"]
-	path = vendor/grammars/vscode-tree-sitter-query
-	url = https://github.com/mkatychev/vscode-tree-sitter-query.git
