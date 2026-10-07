@@ -1,6 +1,6 @@
 ---
 name: vscode-tree-sitter-query
-version: a38ce1d8eed8407b9089715c5819c8aa979b6fdb
+version: 8ac075d2c3e845b1ab169c98d71d15c516152504
 type: git_submodule
 homepage: https://github.com/mkatychev/vscode-tree-sitter-query.git
 license: mit
